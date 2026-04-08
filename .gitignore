@@ -1,0 +1,9 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+# Specific named executatables
+bootdev-docker
